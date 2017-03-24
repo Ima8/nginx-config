@@ -1,0 +1,5 @@
+https://weakdh.org/sysadmin.html
+
+commmand
+openssl dhparam -out /etc/ssl/certs/dhparams.pem 2048
+
